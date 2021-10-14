@@ -16,3 +16,8 @@ Archive TIL by github issue
 
 #### SeSAC D07
 * [CollectionView & CustomCell 구현하기](https://github.com/sseungmn/TIL/issues/3)
+
+## 21.10.14
+
+#### SeSAC D12
+* [MagicString을 대체하는 방법 중 하나](https://github.com/sseungmn/TIL/issues/4)
