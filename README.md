@@ -21,3 +21,8 @@ Archive TIL by github issue
 
 #### SeSAC D12
 * [MagicString을 대체하는 방법 중 하나](https://github.com/sseungmn/TIL/issues/4)
+
+## 21.10.22
+
+#### SeSAC
+* [서로 충돌하는 기능인 Shadow, cornerRadius를 동시에 적용하는 방법](https://github.com/sseungmn/TIL/issues/5)
