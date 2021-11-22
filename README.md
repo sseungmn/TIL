@@ -21,3 +21,7 @@ Archive TIL by github issue
 ## 21.11.09
 
 * [Hugging과 CompressionResistance ](https://github.com/sseungmn/TIL/issues/6)
+
+## 21.11.22
+
+* [ContainerView, ViewController 안에 ViewController](https://github.com/sseungmin/TIL/issues/10)
